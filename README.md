@@ -26,7 +26,7 @@ A clean, minimal recipe manager built with React — create, organize, search, s
 ## Getting Started
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SahilShaikh-Developer/Recipefy
 cd recipe-app
 npm install
 npm run dev
