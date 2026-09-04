@@ -47,7 +47,7 @@ src/
 
 ## Live Demo
 
-<!-- Add your deployed link here once it's live, e.g. https://recipefy.vercel.app -->
+https://recipefy-eight.vercel.app/
 
 ## Screenshots
 
